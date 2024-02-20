@@ -1,5 +1,5 @@
 body {
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Quicksand", sans-serif;
 }
 
 h2,
@@ -9,7 +9,7 @@ h3 {
 
 footer {
   padding: 20px;
-  color: white;
+  color: red;
   background-color: #00a2c6;
 
   text-align: center;
